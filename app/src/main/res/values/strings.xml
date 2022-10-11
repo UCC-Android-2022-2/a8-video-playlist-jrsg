@@ -18,7 +18,7 @@
 
     <string-array name="songs">
         <item>Bohemian Rhapsody</item>
-        <item>Sweet Child O' Mine</item>
+        <item>Sweet Child O\' Mine</item>
         <item>Smells Like Teen Spirit</item>
         <item>Numb</item>
         <item>Hotel California</item>

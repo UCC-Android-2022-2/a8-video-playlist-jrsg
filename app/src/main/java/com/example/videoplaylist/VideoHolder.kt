@@ -4,6 +4,7 @@ import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import java.text.FieldPosition
 
 class VideoHolder : RecyclerView.ViewHolder {
     lateinit var ivThumbnail : ImageView
